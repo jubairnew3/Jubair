@@ -1,2 +1,1 @@
-# Jubair
-skip
+print("Hello") 
